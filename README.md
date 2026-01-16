@@ -8,11 +8,16 @@ Our goal is to centralize resources and practical examples to make collaboration
 
 ## 📚 Demos Overview
 
+
 ### **APPS + AI**
-- https://github.com/davihern/AIFoundryEvaluationCICD  
-  *Evaluation and CI/CD for Microsoft Foundry.*
-- https://github.com/angiekroli/APIM-MCPServer  
-  *Integration of API Management, MCP Server, and Azure Container Apps.*
+- [Microsoft Foundry Evaluators](https://github.com/davihern/AIFoundryEvaluationCICD)  
+  *Owner:* **@davihern**  
+  *Description:* End-to-end evaluation pipeline for Microsoft Foundry, including automated CI/CD workflows to streamline model validation and deployment.
+
+- [APIM + MCP + ACA Pokémon App](https://github.com/angiekroli/APIM-MCPServer)  
+  *Owner:* **@angiekroli**  
+  *Description:* Demonstrates integration of Azure API Management with MCP Server and Azure Container Apps, featuring a Pokémon-themed application.
+
 
 ---
 
