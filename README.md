@@ -30,7 +30,15 @@ Our goal is to centralize resources and practical examples to make collaboration
 
 Thanks to everyone who has contributed!  
 https://github.com/microsoft/spain-se/graphs/contributors  
-![Contributors](https://contributors-img.web.app/image?repo=microsoft/spain-se)
+
+
+<a href="https://github.com/angiekroli">
+  <img src="https://github.com/angiekroli.png" width="80" style="border-radius:50%; object-fit:cover;" />
+</a>
+<a href="https://github.com/davihern">
+  <img src="https://github.com/davihern.png" width="80" style="border-radius:50%; object-fit:cover;" />
+</a>
+
 
 ---
 
