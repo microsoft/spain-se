@@ -1,19 +1,51 @@
-# spain-se
 
-Repository to contain an index of the demos of the Spain Solution Engineers
+# 🇪🇸 Spain Solution Engineers – Demo Index
 
-## Demos Overviews
+This repository contains an index of demos created by the **Spain Solution Engineers team**.  
+Our goal is to centralize resources and practical examples to make collaboration and learning easier.
 
-- [Microsoft Foundry Evaluators] https://github.com/davihern/AIFoundryEvaluationCICD
-- [APIM + MCP + ACA Pokemon App] https://github.com/angiekroli/APIM-MCPServer
+---
 
-----
+## 📚 Demos Overview
 
-## Contributors
+### **APPS + AI**
+- https://github.com/davihern/AIFoundryEvaluationCICD  
+  *Evaluation and CI/CD for Microsoft Foundry.*
+- https://github.com/angiekroli/APIM-MCPServer  
+  *Integration of API Management, MCP Server, and Azure Container Apps.*
 
-Thanks to everyone who has contributed!
+---
 
-<a href="https://github.com/microsoft/spain-se/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=microsoft/spain-se" />
-</a>
+### **DATA**
+*(Coming soon: demos related to Fabric, Power BI, Purview, etc.)*
+
+---
+
+### **INFRA**
+*(Coming soon: demos about infrastructure, networking, and security.)*
+
+---
+
+## 👥 Contributors
+
+Thanks to everyone who has contributed!  
+https://github.com/microsoft/spain-se/graphs/contributors  
+![Contributors](https://contributors-img.web.app/image?repo=microsoft/spain-se)
+
+---
+
+### ✅ How to Contribute
+1. Fork this repository.
+2. Add your demo in the appropriate section.
+3. Create a pull request with a short description.
+
+---
+
+### 🔗 Additional Resources
+- [Microsoft Learn](https://learn.microsoft.com)
+- [Cloud Adoption Framework](https://learn.microsoft.com/azure/cloud-adoption-framework/)
+
+---
+
+> **Tip:** Add badges for build status, license, or contributor count to make it more visual.
 
