@@ -5,6 +5,7 @@ Repository to contain an index of the demos of the Spain Solution Engineers
 ## Demos Overviews
 
 - [Microsoft Foundry Evaluators] https://github.com/davihern/AIFoundryEvaluationCICD
+- [APIM + MCP + ACA Pokemon App] https://github.com/angiekroli/APIM-MCPServer
 
 ----
 
