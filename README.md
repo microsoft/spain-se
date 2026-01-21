@@ -18,6 +18,9 @@ Our goal is to centralize resources and practical examples to make collaboration
   *Owner:* **@angiekroli**  
   *Description:* Demonstrates integration of Azure API Management with MCP Server and Azure Container Apps, featuring a Pokémon-themed application.
 
+- [Voice Agents](https://github.com/dsanchor/call-center-voice-agent-accelerator)
+  *Owner:* **@dsanchor**
+  *Description:* Azure Voice live API usage in several voice agents scenarios, including new foundry agents, avatar and call center accelerator using ACS.
 
 ---
 
@@ -42,6 +45,9 @@ https://github.com/microsoft/spain-se/graphs/contributors
 </a>
 <a href="https://github.com/davihern">
   <img src="https://github.com/davihern.png" width="80" style="border-radius:50%; object-fit:cover;" />
+</a>
+<a href="https://github.com/dsanchor">
+  <img src="https://github.com/dsanchor.png" width="80" style="border-radius:50%; object-fit:cover;" />
 </a>
 
 
