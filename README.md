@@ -26,9 +26,8 @@ Our goal is to centralize resources and practical examples to make collaboration
 
 ### **DATA**
 [Energy monitoring in real-time with Fabric RTI](https://github.com/evajurado/RTI-energy)
-  *Owner:* **@evajurado**  
-  *Description:* Real-time use case in Fabric for monitoring energy generation in substations using Real-Time Intelligence.
-<img width="1178" height="82" alt="image" src="https://github.com/user-attachments/assets/d3228bb6-7710-4f0e-be67-e14710a6c37b" />
+*Owner:* **@evajurado**  
+*Description:* Real-time use case in Fabric for monitoring energy generation in substations using Real-Time Intelligence.
 
 
 ---
