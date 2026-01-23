@@ -25,7 +25,10 @@ Our goal is to centralize resources and practical examples to make collaboration
 ---
 
 ### **DATA**
-*(Coming soon: demos related to Fabric, Power BI, Purview, etc.)*
+[Energy monitoring in real-time with Fabric RTI](https://github.com/evajurado/RTI-energy)  
+*Owner:* **@evajurado**  
+*Description:* Real-time use case in Fabric for monitoring energy generation in substations using Real-Time Intelligence.
+
 
 ---
 
@@ -48,6 +51,9 @@ https://github.com/microsoft/spain-se/graphs/contributors
 </a>
 <a href="https://github.com/dsanchor">
   <img src="https://github.com/dsanchor.png" width="80" style="border-radius:50%; object-fit:cover;" />
+</a>
+<a href="https://github.com/evajurado">
+  <img src="https://github.com/evajurado.png" width="80" style="border-radius:50%; object-fit:cover;" />
 </a>
 
 
